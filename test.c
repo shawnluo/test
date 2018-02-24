@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	int i;
+	int i = 50;
 	return 0;
 }
