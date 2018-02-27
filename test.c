@@ -8,3 +8,6 @@ int main(void)
 	
 	return 0;
 }
+#include <stdlib.h>
+#include <stdio.h>
+#include <pthread.h>
