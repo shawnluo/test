@@ -1,5 +1,5 @@
 #include "stdio.h"
-
+#include <string.h>
 //wallace
 //julie
 int main(void)
